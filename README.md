@@ -37,8 +37,8 @@ I build end-to-end web applications — from MongoDB schema design to responsive
 
 ### 📊 GitHub Stats
 
-![Selvam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+![Selvam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvam-alagesan&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvam-alagesan&layout=compact&theme=default&hide_border=true)
 
 ---
 
