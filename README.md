@@ -41,7 +41,7 @@
 
 ```bash
 ┌──(selvam㉿dev)-[~]
-└─$ echo "Let's build something real." 
+└─$ echo "Let's build something real."
 > Let's build something real.
 ```
 
@@ -55,35 +55,22 @@
 ```
 
 
+
+
   
-    
-      🛒 grocery-store-management
-      
-        
-          
-        
-        
-        
-        
-        
-        
-        3-role RBAC · 20+ APIs · Barcode inventory · Payroll system
-      
-    
-    
-      📚 learning-management-system
-      
-        
-          
-        
-        
-        
-        
-        
-        Full-stack LMS · Payments · Exams · 3 roles · CDN media
-      
-    
-  
+
+
+
+
+
+
+
+
+
+
+
+3-role RBAC · 20+ REST APIs · Barcode inventory · Payroll system · Internship @ Techvolt
+
 
 
 ---
@@ -141,21 +128,11 @@
 
 ---
 
-## 🐍 Contribution Matrix
-
-
-
-![Snake animation](https://raw.githubusercontent.com/selvam-alagesan/selvam-alagesan/output/github-contribution-grid-snake-dark.svg)
-
-
-
----
-
 
 
 ```bash
 ┌──(selvam㉿dev)-[~]
-└─$ echo "Thanks for visiting. Let's connect!" 
+└─$ echo "Thanks for visiting. Let's connect!"
 > Thanks for visiting. Let's connect!
 ```
 
