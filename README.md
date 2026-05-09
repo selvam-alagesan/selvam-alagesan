@@ -1,46 +1,63 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200§ion=header&text=Selvam%20A&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=20&descAlignY=55&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff41&height=200§ion=header&text=SELVAM_A&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=>_%20MERN_STACK_DEVELOPER&descSize=20&descAlignY=58&descColor=00cc33)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Web+Applications+%F0%9F%8C%90;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Express;Building+Real-World+Systems+%F0%9F%92%BB;Open+to+Full+Stack+%2F+Frontend+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
-
-
-
----
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selvamalagesan)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selvamalagesan31@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selvam-alagesan)
-
-![Profile Views](https://komarev.com/ghpvc/?username=selvam-alagesan&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF41¢er=true&vCenter=true&width=650&lines=Initializing+developer+environment...;Loading+MERN+stack+modules...;React.js+%E2%9C%94+Node.js+%E2%9C%94+MongoDB+%E2%9C%94+Express.js;JWT+Auth+%E2%9C%94+RBAC+%E2%9C%94+REST+API+%E2%9C%94+MVC;System+ready.+Open+to+work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 
 
 ---
 
-## 👨‍💻 About Me
 
-```javascript
-const selvam = {
-  name: "Selvam A",
-  role: "MERN Stack Developer",
-  education: "M.Sc. Information Technology — Government Arts College, Coimbatore (2026)",
-  internship: "MERN Stack Developer Intern @ Techvolt Software Pvt. Ltd.",
-  skills: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Redux Toolkit"],
-  currentlyLearning: ["TypeScript", "Docker", "CI/CD"],
-  lookingFor: "Full Stack / Frontend Developer roles",
-  contact: "selvamalagesan31@gmail.com"
-};
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff41?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/selvamalagesan)
+[![Email](https://img.shields.io/badge/Gmail-%2300ff41?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:selvamalagesan31@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300ff41?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/selvam-alagesan)
+
+![Profile Views](https://komarev.com/ghpvc/?username=selvam-alagesan&color=00ff41&style=for-the-badge&label=VISITORS)
+
+
+
+---
+
+## ⚡ whoami
+
+```bash
+┌──(selvam㉿dev)-[~]
+└─$ cat developer.json
+```
+
+```json
+{
+  "name"       : "Selvam A",
+  "role"       : "MERN Stack Developer",
+  "education"  : "M.Sc. Information Technology @ Government Arts College, Coimbatore",
+  "graduated"  : "April 2026",
+  "internship" : "MERN Stack Dev Intern @ Techvolt Software Pvt. Ltd.",
+  "stack"      : ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Redux"],
+  "learning"   : ["TypeScript", "Docker", "CI/CD"],
+  "status"     : "Open to Full Stack / Frontend Developer roles",
+  "email"      : "selvamalagesan31@gmail.com"
+}
+```
+
+```bash
+┌──(selvam㉿dev)-[~]
+└─$ echo "Let's build something real." 
+> Let's build something real.
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 💾 Projects
+
+```bash
+┌──(selvam㉿dev)-[~]
+└─$ ls -la projects/
+```
 
 
   
     
-      🛒 Grocery Store Management System
+      🛒 grocery-store-management
       
         
           
@@ -50,12 +67,11 @@ const selvam = {
         
         
         
-        
-        3-role RBAC system · 20+ REST APIs · Barcode inventory · Payroll management
+        3-role RBAC · 20+ APIs · Barcode inventory · Payroll system
       
     
     
-      📚 Learning Management System
+      📚 learning-management-system
       
         
           
@@ -64,9 +80,7 @@ const selvam = {
         
         
         
-        
-        
-        Full-stack LMS · Course creation · Payment gateway · Exam module · 3 roles
+        Full-stack LMS · Payments · Exams · 3 roles · CDN media
       
     
   
@@ -74,55 +88,60 @@ const selvam = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ Tech Stack
+
+```bash
+┌──(selvam㉿dev)-[~]
+└─$ cat tech-stack.sh
+```
 
 
 
-**Frontend**
+**`// FRONTEND`**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2300ff41?style=for-the-badge&logo=react&logoColor=0d0d0d)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-%2300ff41?style=for-the-badge&logo=redux&logoColor=0d0d0d)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2300ff41?style=for-the-badge&logo=javascript&logoColor=0d0d0d)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%2300ff41?style=for-the-badge&logo=bootstrap&logoColor=0d0d0d)
+![HTML5](https://img.shields.io/badge/HTML5-%2300ff41?style=for-the-badge&logo=html5&logoColor=0d0d0d)
+![CSS3](https://img.shields.io/badge/CSS3-%2300ff41?style=for-the-badge&logo=css3&logoColor=0d0d0d)
 
-**Backend**
+**`// BACKEND`**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Node.js](https://img.shields.io/badge/Node.js-%2300ff41?style=for-the-badge&logo=node.js&logoColor=0d0d0d)
+![Express](https://img.shields.io/badge/Express.js-%2300ff41?style=for-the-badge&logo=express&logoColor=0d0d0d)
+![JWT](https://img.shields.io/badge/JWT-%2300ff41?style=for-the-badge&logo=jsonwebtokens&logoColor=0d0d0d)
 
-**Database & Tools**
+**`// DATABASE & TOOLS`**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
----
-
-## 📊 GitHub Stats
-
-
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=selvam-alagesan&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2300ff41?style=for-the-badge&logo=mongodb&logoColor=0d0d0d)
+![Git](https://img.shields.io/badge/Git-%2300ff41?style=for-the-badge&logo=git&logoColor=0d0d0d)
+![GitHub](https://img.shields.io/badge/GitHub-%2300ff41?style=for-the-badge&logo=github&logoColor=0d0d0d)
+![Vite](https://img.shields.io/badge/Vite-%2300ff41?style=for-the-badge&logo=vite&logoColor=0d0d0d)
 
 
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Stats
+
+```bash
+┌──(selvam㉿dev)-[~]
+└─$ github --stats selvam-alagesan
+```
+
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=selvam-alagesan&theme=chartreuse-dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+
+
+---
+
+## 🐍 Contribution Matrix
 
 
 
@@ -134,4 +153,10 @@ const selvam = {
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120§ion=footer)
+```bash
+┌──(selvam㉿dev)-[~]
+└─$ echo "Thanks for visiting. Let's connect!" 
+> Thanks for visiting. Let's connect!
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d0d0d&height=120§ion=footer)
